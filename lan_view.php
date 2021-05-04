@@ -19,16 +19,19 @@ if (mysqli_num_rows($member)== 0 ) {
 else {
 	echo '<center><table><tr bgcolor="#FF6600">
 <td width="30px">ID</td>
+<td width="100px">Party</td>
 <td width="100px">CANDIDATE</td>
 <td width="30px">VOTE</td>
 </tr>';
 while($mb=mysqli_fetch_object($member))
 		{
 			$id=$mb->can_id;
-			$name=$mb->fullname;
+			$party=$mb->fullname;
 			$vote=$mb->votecount;
+			$name=$mb->about;
 			echo '<tr bgcolor="#BBBEFF">';
 	echo '<td>'.$id.'</td>';
+	echo '<td>'.$party.'</td>';
 	echo '<td>'.$name.'</td>';
 	echo '<td>'.$vote.'</td>';
 	echo "</tr>";

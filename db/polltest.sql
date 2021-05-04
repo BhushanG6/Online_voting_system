@@ -1,8 +1,11 @@
 -- phpMyAdmin SQL Dump
-
+-- version 4.6.4
 -- https://www.phpmyadmin.net/
-
-
+--
+-- Host: 127.0.0.1
+-- Generation Time: Mar 05, 2017 at 09:00 AM
+-- Server version: 5.7.14
+-- PHP Version: 5.6.25
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
@@ -35,11 +38,11 @@ CREATE TABLE `candidates` (
 --
 
 INSERT INTO `candidates` (`can_id`, `fullname`, `about`, `votecount`) VALUES
-(1, 'BJP', 'BJP is', 5),
-(2, 'CONGRESS', 'Congress is', 6),
-(3, 'SS', 'SS is', 21),
-(4, 'AAP', 'AAP is', 17),
-(5, 'NCP', 'NCP is ', 4);
+(1, 'BJP', 'Amit Shah', 5),
+(2, 'CONGRESS', 'Rahul', 6),
+(3, 'SS', 'Aditya', 21),
+(4, 'AAP', 'Arvind', 17),
+(5, 'NCP', 'Sharad ', 4);
 
 -- --------------------------------------------------------
 
@@ -67,7 +70,8 @@ INSERT INTO `loginusers` (`id`, `username`, `password`, `rank`, `status`) VALUES
 (43, 'niku19', 'ac61ebbe84c06debaa78c0a832330164', 'voter', 'ACTIVE'),
 (42, 'ejjhed', 'b3f70c0d1b269668e937741a5d5797ab', 'voter', 'ACTIVE'),
 (41, 'Anirban', '9a7108cfaa7f51efb5fcda9e9d4b7a90', 'voter', 'ACTIVE'),
-(40, 'dnddd', 'b5d165334b465a7fc42310750430b3f9', 'voter', 'ACTIVE');
+(40, 'dnddd', 'b5d165334b465a7fc42310750430b3f9', 'voter', 'ACTIVE'),
+(1, 'admin', '29e4287a197cac1875daffe2ae095353', 'administrator', 'ACTIVE');
 
 -- --------------------------------------------------------
 

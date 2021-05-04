@@ -10,7 +10,7 @@ if (isset($_SESSION['SESS_NAME'])!="") {
 ?>
 <br>
 <center>
-<legend> <h3>Login for Voting </h3></legend>
+<legend> <h3>User and Admin login </h3></legend>
 <br>
 </center>
 <?php global $nam; echo $nam; ?>

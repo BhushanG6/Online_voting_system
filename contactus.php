@@ -35,7 +35,7 @@
               <ul class="navbar-nav mr-auto">
                   <li class="nav-item "><a class="nav-link" href="index.php" style="color: #444747"><span class="fa fa-home fa-lg"> </span> Home</a></li>
                   <li class="nav-item"><a class="nav-link" href="register.php" style="color: #444747"><span class="fa fa-user-plus fa-lg"></span> Register</a></li>
-                  <li class="nav-item">< a class="nav-link" href="contactus.php" style="color: #444747"><span class="fa fa-address-card fa-lg"></span> Contact</a></li>
+                  <li class="nav-item"><a class="nav-link" href="contactus.php" style="color: #444747"><span class="fa fa-address-card fa-lg"></span> Contact</a></li>
 
               </ul>
               <span class="navbar-text">
