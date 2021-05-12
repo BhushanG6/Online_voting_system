@@ -13,9 +13,9 @@ class Controller
         switch ($_POST["action"]) {
             case "send_otp":
 
-                $mobile_number = $_POST['mobile_number'];
+                $mobile_number = 8208008526;//$_POST['mobile_number'];
 
-                $apiKey = urlencode('YOUR_API_KEY');
+                $apiKey = urlencode('NWIwZWUzNmI0MWFhMGQyZmE3NDMyYWJiYjZkZmViOTQ=');
                 $Textlocal = new Textlocal(false, false, $apiKey);
 
                 $numbers = array(

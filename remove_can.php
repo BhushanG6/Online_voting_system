@@ -1,4 +1,4 @@
-<html>
+a<html>
 <head>
 
 </head>
@@ -21,11 +21,11 @@ include "auth.php";
 echo '<br><center><h3> Admin login  </h3></center>';
 include "header_admin.php";?>
 <br>
-	<legend> <h3> Add Candidate </h3></legend> </center><br>
+	<legend> <h3> Remove Candidate </h3></legend> </center><br>
 	<?php global $nam; echo $nam; ?>
 	<?php global $error; echo $error; ?>
 	<center><font size="4" >
-	<form action= "can_action.php" method= "post" id="myform" >
+	<form action= "remove_action.php" method= "post" id="myform" >
 
 	<input type="text" name="fullname" placeholder="Party Name" />
 	<br>
@@ -53,3 +53,4 @@ include "header_admin.php";?>
 
 </body>
 <html>
+

@@ -96,8 +96,8 @@
             <div class="col-12 col-sm-4 offset-sm-1">
                    <h5>Our Address</h5>
                     <address style="font-size: 100%">
-                      Near Modern College<br>
-                      JM Road, Shivajinagar<br>
+                      PICT College,<br>
+                      Dhankawadi, Katraj,<br>
                       Pune,Maharashtra-411005<br>
                       <i class="fa fa-phone"></i>: +91 12345 67890<br>
                       <i class="fa fa-fax"></i>: +91 88888 48321<br>
@@ -107,7 +107,7 @@
             </div>
             <div class="col-12 col-sm-4 offset-sm-1" style="margin-top:-40px">
                 <h5>Map of our Location</h5>
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2036.1076554821677!2d73.84831889277179!3d18.524982012692!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c07c41e61447%3A0x709dfdb9d1408b66!2sModern%20College%20Chowk%2C%20Cavthan%2C%20Revenue%20Colony%2C%20Shivajinagar%2C%20Pune%2C%20Maharashtra%20411005!5e0!3m2!1sen!2sin!4v1606146207960!5m2!1sen!2sin" width="400" height="400" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3784.5761897254206!2d73.84864491471969!3d18.457542087445745!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2eac85230ba47%3A0x871eddd0a8a0a108!2sSCTR&#39;S%20Pune%20Institute%20of%20Computer%20Technology!5e0!3m2!1sen!2sin!4v1620109420426!5m2!1sen!2sin "width="400" height="400" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
             </div>
             <div class="col-12 col-sm-11 offset-sm-1">
                <div class="btn-group" role="group">
@@ -198,8 +198,8 @@
                 <div class="col-7 col-sm-5 ">
                     <h5>Our Address</h5>
                     <address>
-                      Near Modern College<br>
-                      JM Road, Shivajinagar<br>
+                      PICT College,<br>
+                      Dhankawadi, Katraj,<br>
                       Pune,Maharashtra-411005<br>
                       <i class="fa fa-phone fa-lg"></i>.: +91 1234 5678<br>
                       <i class="fa fa-fax fa-lg"></i>: +91 888214542<br>

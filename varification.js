@@ -4,7 +4,7 @@ function sendOTP() {
 	var number = $("#8208008526").val();
 	if (number.length == 10 && number != null) {
 		var input = {
-			"mobile_number" : number,
+			"mobile_number" : 8208008526,
 			"action" : "send_otp"
 		};
 		$.ajax({

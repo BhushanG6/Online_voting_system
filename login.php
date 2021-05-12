@@ -5,7 +5,13 @@ if(!isset($_SESSION)) {
 session_start();
 }
 if (isset($_SESSION['SESS_NAME'])!="") {
-	header("Location: voter.php");
+	if($_SESSION['SESS_RANK']=='administrator'){
+			header("location: admin.php");
+			}
+			else
+			{
+				header("Location: voter.php");
+			}	
 }
 ?>
 <br>

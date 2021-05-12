@@ -8,6 +8,6 @@
 
 <body bgcolor="#EBE9E9">
 <center><font size='6' >
-<h5 style="background-color:#30c4e6">&nbsp;&nbsp;|&nbsp;&nbsp;<a style="color:#fff"href="profile.php">Profile</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a style="color:#fff"href="logout.php">Logout</a>
-&nbsp;&nbsp;|&nbsp;&nbsp;<a style="color:#fff" href="change_pass.php">Change Password</a></h5>
+<h5 style="background-color:#30c4e6">&nbsp;&nbsp;<a style="color:#fff"href="result.php">Result</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a style="color:#fff"href="voter.php">Profile</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a style="color:#fff" href="change_pass.php">Change Password</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a style="color:#fff"href="logout.php">Logout</a>
+</h5>
 </font></center>

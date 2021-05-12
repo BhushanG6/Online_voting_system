@@ -8,6 +8,6 @@
 
 <body bgcolor="#EBE9E9">
 <center><font size='6' >
-<h5 style="background-color:#30c4e6"><a style="color:#fff"href="admin.php">Show Candidate</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a style="color:#fff"href="add_can.php">Add Candicate</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a style="color:#fff"href="remove.php">Remove candidate</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a style="color:#fff"href="logout.php">Logout</a>
+<h5 style="background-color:#30c4e6"><a style="color:#fff"href="admin.php">Result</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a style="color:#fff"href="add_can.php">Add Candidate</a>&nbsp;&nbsp;|&nbsp;<a style="color:#fff"href="remove_can.php"> Remove Candidate</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a style="color:#fff"href="logout.php">Logout</a>
 &nbsp;&nbsp;|</h5>
 </font></center>

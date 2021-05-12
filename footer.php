@@ -15,11 +15,11 @@
                 <div class="col-7 col-sm-5 ">
                     <h5>Our Address</h5>
                     <address>
-                      Near Modern College<br>
-                      JM Road, Shivajinagar<br>
+                      PICT College,<br>
+                      Dhankawadi, Katraj<br>
                       Pune,Maharashtra-411005<br>
                       <i class="fa fa-phone fa-lg"></i>.: +91 1234 5678<br>
-                      <i class="fa fa-fax fa-lg"></i>: +91 888214542<br>
+                      <i class="fa fa-fax fa-lg"></i>: +91 8888800000<br>
                       <i class="fa fa-envelope fa-lg"></i>: <a href="mailto:voteindia@online.gov">voteindia@online.gov</a>
                    </address>
                 </div>

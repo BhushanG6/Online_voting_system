@@ -1,7 +1,14 @@
 <?php include "header.php";
 session_start();
 if (isset($_SESSION['SESS_NAME'])!="") {
-	header("Location: voter.php");
+	if($_SESSION['SESS_RANK']=='administrator'){
+			header("location: admin.php");
+			}
+			else
+			{
+				header("Location: voter.php");
+			}	
+			
 }
 ?>
 <?php global $msg; echo $msg;?>

@@ -8,7 +8,7 @@ if(isset($_POST['submit'])) {
         }
         if(!$captcha){
 		  $error = "Please check captcha too";
-		  include ('register.php');
+		  include ('can_action.php');
 		  exit();
         }
         $secretKey = "6LeD3hEUAAAAADNeeaGRfKmABjn1gnsXxrpdTa2J";

@@ -14,7 +14,9 @@ include "header_voter.php";
 include "connection.php";
 $member = mysqli_query($con, 'SELECT * FROM candidates' );
 if (mysqli_num_rows($member)== 0 ) {
-	echo '<font color="red">No results found</font>';
+echo '<center>';
+	echo '<font color="red">  No results found </font>';
+	echo '</center>';
 }
 else {
 	echo '<center><table><tr bgcolor="#FF6600">

@@ -32,6 +32,9 @@
   <input type="text" name="lastname" placeholder="Lastname" />
 	<br>
 	<br>
+	<input type="text" name="" placeholder="Voter Id" />
+	<br>
+	<br>
 	<input type="text" name="username" placeholder="Username" />
 	<br>
 	<br>
@@ -45,18 +48,6 @@
 	</form>
 	</font>
 	</center>
-	<script type= "text/javascript" >
-	 var frmvalidator = new Validator("myform");
-	 frmvalidator.addValidation("firstname","req","Please enter student firstname");
-	 frmvalidator.addValidation("firstname","maxlen=50");
-	 frmvalidator.addValidation("lastname","req","Please enter student lastname");
-	 frmvalidator.addValidation("lastname","maxlen=50");
-	 frmvalidator.addValidation("username","req","Please enter student username");
-	 frmvalidator.addValidation("username","maxlen=50");
-	 frmvalidator.addValidation("password","req","Please enter student password");
-	 frmvalidator.addValidation("password","minlen=6","Password must not be less than 6 characters.");
-
-	</script>
 	<?php include "footer.php" ;?>
 
 </body>
